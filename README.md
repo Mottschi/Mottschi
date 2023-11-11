@@ -1,6 +1,5 @@
 # Sebastian Mottschall #
-### Open for work:
-I am currently looking for a position as: **Fullstack-** or **Frontend-Web Developer**
+
 ### About Me
 
 Originally from Berlin, Germany, I moved to France in 2005 to work at Blizzard Entertainment as a Customer Support Representative. I spent 16 years working for the company, until they closed the office in France in 2021.
